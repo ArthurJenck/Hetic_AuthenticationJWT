@@ -1,0 +1,2 @@
+<?php
+$jwt_key = "EEF5DBE1F22327DD78F4A9B5613A5";
